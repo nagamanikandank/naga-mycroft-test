@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34158d3c-4017-4c58-9485-e27742da15f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/de-de/dot.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/de-de/dot.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/de-de/my address is.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/de-de/my address is.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/de-de/my address on X is Y.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/de-de/my address on X is Y.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/de-de/no network connection.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/de-de/no network connection.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/en-us/dot.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/en-us/dot.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/en-us/my address is.dialog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/en-us/my address on X is Y.dialog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/en-us/no network connection.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/en-us/no network connection.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/es-es/dot.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/es-es/dot.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/es-es/my address is.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/es-es/my address is.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/es-es/my address on X is Y.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/es-es/my address on X is Y.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/es-es/no network connection.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/es-es/no network connection.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/it-it/dot.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/it-it/dot.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/it-it/my address is.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/it-it/my address is.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/it-it/my address on X is Y.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/it-it/my address on X is Y.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/it-it/no network connection.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/it-it/no network connection.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/sv-se/dot.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/sv-se/dot.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/sv-se/my address is.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/sv-se/my address is.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/sv-se/my address on X is Y.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/sv-se/my address on X is Y.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/sv-se/no network connection.dialog" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/sv-se/no network connection.dialog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/intent/sample1.intent.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/intent/sample1.intent.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/intent/sample2.intent.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/intent/sample2.intent.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/intent/sample3.intent.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/intent/sample3.intent.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/de-de/IP.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/de-de/IP.voc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/de-de/query.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/de-de/query.voc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/en-us/IP.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/en-us/IP.voc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/en-us/query.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/en-us/query.voc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/es-es/IP.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/es-es/IP.voc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/es-es/query.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/es-es/query.voc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/it-it/IP.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/it-it/IP.voc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/it-it/query.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/it-it/query.voc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/sv-se/IP.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/sv-se/IP.voc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vocab/sv-se/query.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/sv-se/query.voc" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-488325524">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1299" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-skill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-skill" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34158d3c-4017-4c58-9485-e27742da15f2" name="Default Changelist" comment="" />
+      <created>1538765309667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538765309667</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2460815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
