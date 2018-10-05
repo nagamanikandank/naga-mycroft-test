@@ -8,7 +8,7 @@ Retrieve the [IP address](https://en.wikipedia.org/wiki/IP_address), also known 
 * What Naga Address
 
 ## Credits 
-Mycroft AI (@MycroftAI)
+Mycroft AI (@MycroftAI)  
 https://github.com/MycroftAI/skill-ip
 
 ## Category
