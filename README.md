@@ -1,4 +1,4 @@
-Learning Mycroft development using :- Device IP Address Skill from (https://github.com/MycroftAI/skill-ip) 
+Learning Mycroft development using already existing Device IP Address Skill from Github (https://github.com/MycroftAI/skill-ip) 
 Network connection information
 
 ## About 
